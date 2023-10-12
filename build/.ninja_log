@@ -1,0 +1,16 @@
+# ninja log v5
+3	940	7188270176744868	src/businesslogic_autogen/timestamp	1d3ec749800b8da2
+3	940	7188270176744868	src/businesslogic_autogen/mocs_compilation.cpp	1d3ec749800b8da2
+3	940	7188270176744868	C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/businesslogic_autogen/timestamp	1d3ec749800b8da2
+3	940	7188270176744868	C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/businesslogic_autogen/mocs_compilation.cpp	1d3ec749800b8da2
+953	1069	7188270178698387	src/CMakeFiles/businesslogic.dir/test.cpp.obj	25b2fcd4aff238ca
+946	2973	7188270197727278	src/CMakeFiles/businesslogic.dir/businesslogic_autogen/mocs_compilation.cpp.obj	8fdaf694ea3d51e3
+941	3087	7188270198861149	src/CMakeFiles/businesslogic.dir/calculator.cpp.obj	3477199954646249
+3088	3254	7188270200565083	src/libbusinesslogic.a	297c8679726143b9
+3255	3506	7188270202638046	main/helloworld_autogen/timestamp	c03608291deff94
+3255	3506	7188270202638046	main/helloworld_autogen/mocs_compilation.cpp	c03608291deff94
+3255	3506	7188270202638046	C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/helloworld_autogen/timestamp	c03608291deff94
+3255	3506	7188270202638046	C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/helloworld_autogen/mocs_compilation.cpp	c03608291deff94
+3506	3599	7188270204007053	main/CMakeFiles/helloworld.dir/helloworld_autogen/mocs_compilation.cpp.obj	ee96c36aadf834a4
+3511	5804	7188270226043839	main/CMakeFiles/helloworld.dir/main.cpp.obj	b118cd3ba6fa5ec4
+5804	6158	7188270229552065	helloworld.exe	bf3f44edb6681ee8

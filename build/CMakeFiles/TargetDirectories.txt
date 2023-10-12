@@ -1,0 +1,12 @@
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/CMakeFiles/edit_cache.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/CMakeFiles/rebuild_cache.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/CMakeFiles/helloworld.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/CMakeFiles/edit_cache.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/CMakeFiles/rebuild_cache.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/CMakeFiles/helloworld_autogen_timestamp_deps.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/main/CMakeFiles/helloworld_autogen.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/CMakeFiles/businesslogic.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/CMakeFiles/edit_cache.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/CMakeFiles/rebuild_cache.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/CMakeFiles/businesslogic_autogen_timestamp_deps.dir
+C:/Users/thomas.mcadams/Documents/IOC/helloworld/build/src/CMakeFiles/businesslogic_autogen.dir

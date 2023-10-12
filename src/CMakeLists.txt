@@ -1,6 +1,6 @@
 qt_add_library(businesslogic STATIC
-    calculatorform.cpp
-    calculatorform.ui
+    calculator.cpp
+    calculator.ui
     test.cpp
 )
 target_link_libraries(businesslogic PRIVATE Qt6::Widgets)
